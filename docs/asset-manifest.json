@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1583bf4d.css",
+    "main.js": "/Portfolio/static/js/main.f7a9be75.js",
+    "static/js/787.128fc6e9.chunk.js": "/Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/socialMedia.jpg": "/Portfolio/static/media/socialMedia.a2dc5239226f37eaf442.jpg",
+    "static/media/wallpaperflare.com_wallpaper (1).jpg": "/Portfolio/static/media/wallpaperflare.com_wallpaper (1).43e20ad9fa9392ea7120.jpg",
+    "static/media/vchatImag.jpg": "/Portfolio/static/media/vchatImag.42ed97308e36d8861678.jpg",
+    "static/media/aboutImg.jpg": "/Portfolio/static/media/aboutImg.41f5448ca0f6722811c1.jpg",
+    "static/media/awardNew.jpg": "/Portfolio/static/media/awardNew.31f1508ee396e19575a1.jpg",
+    "static/media/weatherImg.jpg": "/Portfolio/static/media/weatherImg.90979232d8ab1866abe3.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.1583bf4d.css.map": "/Portfolio/static/css/main.1583bf4d.css.map",
+    "main.f7a9be75.js.map": "/Portfolio/static/js/main.f7a9be75.js.map",
+    "787.128fc6e9.chunk.js.map": "/Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1583bf4d.css",
+    "static/js/main.f7a9be75.js"
+  ]
+}
