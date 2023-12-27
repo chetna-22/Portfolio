@@ -1,0 +1,51 @@
+/* Home.css */
+.home-section {
+    height: 100vh;
+    background-image: url('../assets/wallpaperflare.com_wallpaper\ \(1\).jpg'); /* Replace with the path to your background image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*margin: 0; Remove any margin */
+    padding: 0; /* Remove any padding */
+    text-align: center;
+  }
+  
+  .home-content {
+    
+    color: #fff;
+    padding-left: 50%;
+    
+  }
+  
+  .home-content h1 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  .home-content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #192a56;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #ff5445;
+  }
+  @media (max-width: 768px) {
+    .home-content {
+      padding-left:20%
+    }
+  }

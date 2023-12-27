@@ -1,0 +1,25 @@
+/* Contact.css */
+.contact-section {
+    background-color: var(--contact-bg-color);
+    padding: 60px 0;
+    /* background-color: #ff6f61; */
+    color: #fff;
+    font-family: 'Font Name', sans-serif; 
+  }
+  
+  .contact-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .contact-content h2 {
+    font-size: 36px;
+    color: #fff;
+    font-weight: 600;
+  }  
+
+  .contact-content p {
+    color: #fff;
+    font-weight: 400;
+  }

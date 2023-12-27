@@ -1,0 +1,14 @@
+/* styles.css */
+:root {
+    --primary-color: #192A56;/* Main color */
+    --secondary-color:#333;/* Darker color for text */
+    --accent-color: #2ECC71; /* Accent color for buttons */
+    --bg-color: #f7f7f7; /* Background color */
+    --card-bg-color: #fff; /* Background color for cards */
+    --shadow-color: rgba(0, 0, 0, 0.1); /* Box shadow color */
+    --about-bg-color: #f9f9f9;
+    --projects-bg-color: #ffffff;
+    --contact-bg-color: #f6f6f6;
+    
+  }
+  
